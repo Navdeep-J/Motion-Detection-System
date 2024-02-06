@@ -28,7 +28,7 @@ The objective of this project is to design, implement, and evaluate a motion det
 # Steps to be followed to run this project:
 
 1. First clone this github repository in your system.
-2. Then create the hardware part of the project according to the circuit shown above or in project report pdf.
+2. Then create the hardware part of the project according to the circuit shown above or in "Motion Detection System Project Report.pdf" file.
 3. Then open the Arduino code of the project "Arduino_motion_detection.ino" in Arduino IDE and upload it in your arduino using the serial cable.
 4. Now you are all set, you can now test and use your Motion Detection System.
 5. More instructions and concept/working principle of the project can be found in "Motion Detection System Project Report.pdf" file in the project's repository.
